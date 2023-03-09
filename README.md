@@ -27,7 +27,7 @@ Collaboration tool
 <hr/>
 Contact
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://blog.naver.com/tgyuu_",target="_blank">
+<a href="https://blog.naver.com/tgyuu_" target="_blank">
 <img src="https://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&logoColor=white">
 <a>
 
