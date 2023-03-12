@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MYSQL&logoColor=white">
 <hr/>
 <br>
 Framework
@@ -22,6 +23,7 @@ Collaboration tool
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-lightgrey?style=flat-square&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Figma&logoColor=white">
 <br><br>
 
 <hr/>
