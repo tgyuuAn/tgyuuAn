@@ -1,11 +1,12 @@
 <br>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=AAC4FF&height=100&section=header&text=tgyuu&fontSize=70&fontColor=EEF1FF" />
-<br><br><br><br>
-
+<br><br><br><br><br>
+  
 
 <h2>Language
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/-Kotlin-blueviolet?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white">
