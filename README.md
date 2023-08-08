@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=AAC4FF&height=100&section=header&text=tgyuu&fontSize=70&fontColor=EEF1FF" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=AAC4FF&height=100&section=header&text=tgyuu&fontSize=70&fontColor=FFFFFF"/>
 <br><br><br><br><br><br><br><br><br>
   
  
