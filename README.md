@@ -51,7 +51,10 @@
   [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02 )</sub><br>
  - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ )</sub><br>
  - 🖥️ GDSC PKNU - 4기 Member <sub>(2023.10 ~ )</sub><br>
- - 🏆 부경대학교 정보융합대학 프로그래밍 경진대회 대상 - [링크](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=&keyword=&pagenum=1) <sub>(2023.05.17 )</sub><br>
+ <br>
+ 
+## Award
+- 🏆 부경대학교 정보융합대학 프로그래밍 경진대회 대상 - [링크](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=&keyword=&pagenum=1) <sub>(2023.05.17 )</sub><br>
 <br>
 
   ## Contact
