@@ -41,8 +41,12 @@
  - 🐈‍⬛ [WAPP(와피)](https://github.com/pknu-wap/WAPP) - 기획, AOS개발 및 Figma UI/UX <sub>(2023.10 ~ )</sub><br>
 <br>
 
-  ## Experience
+  ## Study
  - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ )</sub><br>
+ - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ )</sub><br>
+<br>
+
+ ## Experience
  - 🧑🏻‍🎓 2023 Google I/O Extended Busan 학생 스피커 -
   [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02 )</sub><br>
  - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ )</sub><br>
