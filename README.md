@@ -44,7 +44,7 @@
 
   ## Study
  - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ )</sub><br>
- - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ )</sub><br>
+ - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study#%EC%95%88%ED%83%9C%EA%B7%9C-tgyuuan) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ )</sub><br>
 <br>
 
  ## Experience
@@ -59,7 +59,7 @@
 <br>
 
   ## Contact
-  - 🧩 Tech Blog - https://blog.naver.com/tgyuu_
+  - 🧩 Tech Blog - [바로가기](https://blog.naver.com/tgyuu_)
 </details>
 
 <br><br>
