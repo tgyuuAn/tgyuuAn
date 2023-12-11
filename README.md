@@ -38,7 +38,6 @@
 
   ## Project
  - 💊 [MediLenz](https://github.com/pknu-wap/2023_1_WAP_APP_TEAM_MEDI) - AOS 개발 및 Figma UI/UX <sub>(2023.03 ~ )</sub><br>
- - ⚽ [SoccerFriends](https://github.com/tgyuuAn/SoccerFriends) - 기획, AOS개발 및 Figma UI/UX <sub>(2023.08 ~ )</sub><br>
  - 🐈‍⬛ [WAPP(와피)](https://github.com/pknu-wap/WAPP) - 기획, AOS개발 및 Figma UI/UX <sub>(2023.10 ~ )</sub><br>
 <br>
 
