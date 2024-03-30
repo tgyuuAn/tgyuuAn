@@ -1,6 +1,6 @@
 ## Hello, World! 🌏 <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtgyuuAn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<br>
+<br><br><br>
 
 ### Language 💫
 <div align="left">
@@ -36,9 +36,22 @@
 <div markdown="1">       
 </div>
 
+<br>
+
+![image](https://github.com/tgyuuAn/tgyuuAn/assets/116813010/1db699cb-7db2-4402-b9eb-3d545d925a1f)
+
+![image](https://github.com/tgyuuAn/tgyuuAn/assets/116813010/3cbc35f8-beb9-49e9-a609-53f9c84cd781)
+
+- 소통하는 것과 건강한 토론을 정말 정말 좋아합니다.
+- RPG 게임에서 캐릭터를 성장시키듯 자기 개발로 가치를 상승시키며 끝없는 성장을 갈망합니다.
+- 모두에게 평등하게 주어진 시간이라는 자원을 보다 효율적으로 사용하려고 노력합니다.
+
+<br><br><br>
+
   ## Project
  - 💊 [MediLenz](https://github.com/pknu-wap/2023_1_WAP_APP_TEAM_MEDI) - AOS 개발 및 Figma UI/UX <sub>(2023.03 ~ )</sub><br>
  - 🐈‍⬛ [WAPP(와피)](https://github.com/pknu-wap/WAPP) - 기획, AOS개발 및 Figma UI/UX <sub>(2023.10 ~ )</sub><br>
+ - 🐬 [BaekyoungE(백경이)](https://github.com/tgyuuAn/BaekyoungE) - 기획, AOS개발 <sub>(2023.03 ~ )</sub><br>
 <br>
 
   ## Study
@@ -50,7 +63,7 @@
  - 🧑🏻‍🎓 2023 Google I/O Extended Busan 학생 스피커 -
   [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02 )</sub><br>
  - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ )</sub><br>
- - 🖥️ GDSC PKNU - 4기 Member <sub>(2023.10 ~ )</sub><br>
+ - 🖥️ GDSC PKNU <sub>(2023.10 ~ )</sub><br>
  <br>
  
 ## Award
