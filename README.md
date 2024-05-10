@@ -51,7 +51,7 @@
   ## Project
  - 💊 [MediLenz](https://github.com/pknu-wap/2023_1_WAP_APP_TEAM_MEDI) - AOS 개발 및 Figma UI/UX <sub>(2023.03 ~ )</sub><br>
  - 🐈‍⬛ [WAPP(와피)](https://github.com/pknu-wap/WAPP) - 기획, AOS개발 및 Figma UI/UX <sub>(2023.10 ~ )</sub><br>
- - 🐬 [BaekyoungE(백경이)](https://github.com/tgyuuAn/BaekyoungE) - 기획, AOS개발 <sub>(2023.03 ~ )</sub><br>
+ - 🐬 [BaekyoungE(백경이)](https://github.com/tgyuuAn/BaekyoungE) - 기획, AOS개발 <sub>(2024.03 ~ )</sub><br>
 <br>
 
   ## Study
@@ -69,6 +69,7 @@
 ## Award
 - 🏆 부경대학교 정보융합대학 프로그래밍 경진대회 대상 - [링크](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=&keyword=&pagenum=1) <sub>(2023.05.17 )</sub><br>
 - 🥉 부경대학교 정보융합대학 프로그래밍 경진대회 장려상 <sub>(2023.11.09 )</sub><br>
+- 🥉 부경대학교 정보융합대학 프로그래밍 경진대회 장려상 <sub>(2024.05.08 )</sub><br>
 - 🥈 모여봐요 해커톤 경진대회 은상 - [링크](https://whalebe.pknu.ac.kr/main/65?action=get&yy=2023&shtm=U0003002&nonsubjcCd=N202311051&nonsubjcCrsCd=C202000115), [노션](https://www.notion.so/A-8ab2b7555b714a35b5ccb7180ce67173)<sub>(2023.11.26 )</sub><br>
 - 🎖️ 부경대학교 LINC 캡스톤디자인 경진대회 우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2023.12.26 )</sub>
 
