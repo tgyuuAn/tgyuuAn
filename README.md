@@ -72,6 +72,7 @@
 - 🥉 부경대학교 정보융합대학 프로그래밍 경진대회 장려상 <sub>(2024.05.08 )</sub><br>
 - 🥈 모여봐요 해커톤 경진대회 은상 - [링크](https://whalebe.pknu.ac.kr/main/65?action=get&yy=2023&shtm=U0003002&nonsubjcCd=N202311051&nonsubjcCrsCd=C202000115), [노션](https://www.notion.so/A-8ab2b7555b714a35b5ccb7180ce67173)<sub>(2023.11.26 )</sub><br>
 - 🎖️ 부경대학교 LINC 캡스톤디자인 경진대회 우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2023.12.26 )</sub>
+- 🎖️ 부경대학교 정보통신공학과 캡스톤디자인 경진대회 최우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2024.07.01 )</sub>
 
 <br>
 
