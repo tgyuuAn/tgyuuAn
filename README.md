@@ -41,11 +41,15 @@
 - 🥈 모여봐요 해커톤 경진대회 은상 - [링크](https://whalebe.pknu.ac.kr/main/65?action=get&yy=2023&shtm=U0003002&nonsubjcCd=N202311051&nonsubjcCrsCd=C202000115), [노션](https://www.notion.so/A-8ab2b7555b714a35b5ccb7180ce67173)<sub>(2023.11.26)</sub><br>
 - 🎖️ 부경대학교 LINC 캡스톤디자인 경진대회 우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2023.12.26)</sub>
 - 🎖️ 부경대학교 정보통신공학과 캡스톤디자인 경진대회 최우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2024.07.01)</sub>
+<br>
+
+## Open Source Contributions
+- [coil-#2654](https://github.com/coil-kt/coil/pull/2654): Add constant to parse Gif Loop Count and apply to repeatCount (`3.1.0`에 릴리즈!)
 
 <br>
 
 ## Contact
-- 🧩 Tech Blog - [바로가기](https://blog.naver.com/tgyuu_)
+- Tech Blog - [바로가기](https://blog.naver.com/tgyuu_)
 
 <br>
 
