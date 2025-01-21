@@ -12,31 +12,30 @@
 <div markdown="1">       
 </div>
 
-  ## Project
+## Project
  - 🧩 [Piece(피스)](https://github.com/YAPP-Github/Piece-Android) - 안드로이드 개발, 스크럼 및 회의 리드 <sub>(2024.12 ~ )</sub><br>
  - 👵🏻 [케어밋](https://github.com/3IDLES/idle-android) - 기획, 안드로이드 개발, 스크럼 및 회의 리드 <sub>(2024.07 ~ )</sub><br>
  - 🐬 [BaekyoungE(백경이)](https://github.com/tgyuuAn/BaekyoungE) - 기획, 안드로이드 개발 <sub>(2024.03 ~ 2024.07)</sub><br>
  - 🐈‍⬛ [WAPP(와피)](https://github.com/pknu-wap/WAPP) - 안드로이드 개발 <sub>(2023.10 ~ 2024.03)</sub><br>
  - 💊 [MediLenz](https://github.com/pknu-wap/2023_1_WAP_APP_TEAM_MEDI) - 안드로이드 개발<sub>(2023.03 ~ 2023.10)</sub><br>
-
 <br>
 
-  ## Study
- - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ )</sub><br>
- - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study#%EC%95%88%ED%83%9C%EA%B7%9C-tgyuuan) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ 2024.01.14)</sub><br>
- - 📖 [오브젝트: 코드로 이해하는 객체지향 설계 리딩 스터디](https://github.com/pknu-wap/2024Study-Objects) - 객체지향 스터디 <sub>(2024.11 ~ )</sub><br>
-
-<br>
-
- ## Experience
-  - 🖥️ YAPP 25th <sub>(2024.11 ~ )</sub><br>
+## Experience
+ - 🖥️ YAPP 25th <sub>(2024.11 ~ )</sub><br>
  - 🖥️ SW Maestro 15th <sub>(2024.03 ~ 2024.12)</sub><br>
  - 🖥️ GDG on Campus PKNU <sub>(2023.10 ~ )</sub><br>
  - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ )</sub><br>
- - 🧑🏻‍🎓 2023 Google I/O Extended Busan 학생 스피커 -
-  [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
  <br>
- 
+
+## Open Source Contributions
+- [coil-#2654](https://github.com/coil-kt/coil/pull/2654): Add constant to parse Encoded Loop Count and apply to repeatCount
+<br>
+
+## Presentation
+ - 🧑🏻‍🎓 2023 Google I/O Extended Busan - [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
+ - 🧑🏻‍🎓 2025 UMC 7th 컨퍼런스 - [클라이언트 렌더링 최적화 맛보기](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
+ <br>
+
 ## Award
 - 🏆 부경대학교 정보융합대학 프로그래밍 경진대회 대상 <sub>(2024.11.02)</sub><br>
 - 🏆 부경대학교 정보융합대학 프로그래밍 경진대회 대상 - [링크](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=&keyword=&pagenum=1) <sub>(2023.05.17)</sub><br>
@@ -47,9 +46,11 @@
 - 🎖️ 부경대학교 정보통신공학과 캡스톤디자인 경진대회 최우수상 - [링크](https://github.com/tgyuuAn/Baekyoung-i) <sub>(2024.07.01)</sub>
 <br>
 
-## Open Source Contributions
-- [coil-#2654](https://github.com/coil-kt/coil/pull/2654): Add constant to parse Encoded Loop Count and apply to repeatCount
 
+## Study
+ - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ )</sub><br>
+ - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study#%EC%95%88%ED%83%9C%EA%B7%9C-tgyuuan) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ 2024.01.14)</sub><br>
+ - 📖 [오브젝트: 코드로 이해하는 객체지향 설계 리딩 스터디](https://github.com/pknu-wap/2024Study-Objects) - 객체지향 스터디 <sub>(2024.11 ~ )</sub><br>
 <br>
 
 ## Contact
