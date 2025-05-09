@@ -13,6 +13,7 @@
 </div>
 
 ## Project
+ - 📋 [Ebbing Planner(에빙 플래너)](https://github.com/tgyuuAn/EbbingPlanner) - 1인 개발 <sub>(2025.04.22 ~ )</sub><br>
  - 🧩 [Piece(피스)](https://github.com/YAPP-Github/Piece-Android) - 안드로이드 개발, 스크럼 및 회의 리드 <sub>(2024.12 ~ )</sub><br>
  - 👵🏻 [케어밋](https://github.com/3IDLES/idle-android) - 기획, 안드로이드 개발, 스크럼 및 회의 리드 <sub>(2024.07 ~ )</sub><br>
  - 🐬 [BaekyoungE(백경이)](https://github.com/tgyuuAn/BaekyoungE) - 기획, 안드로이드 개발 <sub>(2024.03 ~ 2024.07)</sub><br>
@@ -21,10 +22,10 @@
 <br>
 
 ## Experience
- - 🖥️ YAPP 25th <sub>(2024.11 ~ )</sub><br>
  - 🖥️ SW Maestro 15th <sub>(2024.03 ~ 2024.12)</sub><br>
+ - 🖥️ YAPP 25th <sub>(2024.11 ~ 2025.03)</sub><br>
  - 🖥️ GDG on Campus PKNU <sub>(2023.10 ~ )</sub><br>
- - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ )</sub><br>
+ - 🖥️ 부경대학교 개발 중앙동아리 WAP <sub>(2023.03 ~ 2024.12)</sub><br>
  <br>
 
 ## Open Source Contributions
@@ -33,7 +34,7 @@
 
 ## Presentation
  - 🧑🏻‍🎓 2023 Google I/O Extended Busan - [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
- - 🧑🏻‍🎓 2025 UMC 7th 컨퍼런스 - [클라이언트 렌더링 최적화 맛보기](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
+ - 🧑🏻‍🎓 2025 UMC 7th 컨퍼런스 - [클라이언트 렌더링 최적화 맛보기](https://festa.io/events/3820) <sub>(2025.01.20)</sub><br>
  <br>
 
 ## Award
