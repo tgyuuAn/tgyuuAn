@@ -35,6 +35,7 @@
 ## Presentation
  - 🧑🏻‍🎓 2023 Google I/O Extended Busan - [주니어 개발자 눈높이로 보는 쉬운 클린 아키텍처](https://festa.io/events/3820) <sub>(2023.09.02)</sub><br>
  - 🧑🏻‍🎓 2025 UMC 7th 컨퍼런스 - [클라이언트 렌더링 최적화 맛보기](https://festa.io/events/3820) <sub>(2025.01.20)</sub><br>
+ - 🧑🏻‍🎓 2025 UMC 8th 컨퍼런스 - [Coil, KingFisher와 같은 이미지 라이브러리는 어떻게 동작할까? 최적화는? - Coil 톺아보기](https://blog.naver.com/tgyuu_/223937804564) <sub>(2025.07.27)</sub><br>
  <br>
 
 ## Award
@@ -49,9 +50,10 @@
 
 
 ## Study
- - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ )</sub><br>
+ - 📖 [AlgoLeadMe(알고리드미)](https://github.com/AlgoLeadMe) - 알고리즘 스터디 스터디장 <sub>(2023.10 ~ 2025.03)</sub><br>
  - 🤖 [Android-Blog-Study](https://github.com/pknu-wap/android-blog-study#%EC%95%88%ED%83%9C%EA%B7%9C-tgyuuan) - 안드로이드 블로그 포스팅 및 발표 스터디 <sub>(2023.07 ~ 2024.01.14)</sub><br>
- - 📖 [오브젝트: 코드로 이해하는 객체지향 설계 리딩 스터디](https://github.com/pknu-wap/2024Study-Objects) - 객체지향 스터디 <sub>(2024.11 ~ )</sub><br>
+ - 📖 [오브젝트: 코드로 이해하는 객체지향 설계 리딩 스터디](https://github.com/pknu-wap/2024Study-Objects) - 객체지향 스터디 <sub>(2024.11 ~ 2025.03)</sub><br>
+ - 📖 [Manifest Android Interview 스터디](https://github.com/tgyuuAn/Study-Manifest-Android-Interview) - 객체지향 스터디 <sub>(2025.07 ~ )</sub><br>
 <br>
 
 ## Contact
